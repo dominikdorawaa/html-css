@@ -1,0 +1,71 @@
+body{
+	background-color:grey;
+}
+
+div{
+	background-color:red;
+font-family: bold;
+font-style:italic;
+margin-left:2px;
+padding-bottom:2px;
+float:left;
+}
+
+h1{
+	color:blue;
+	text-align:center;
+ font-family:arial;
+	}
+	p{
+		color:red;
+	}
+	
+	table{
+		width:50%;
+		color:black;
+		border:solid;
+	}
+	ol{
+  list-style-type: upper-roman;
+}
+
+#cos{
+background-color:red;
+font-family:bold;
+}
+
+#tez{
+background-color:blue;
+font-family:bold;
+}
+
+#nic{
+background-color:yellow;
+font-family:bold;
+}
+
+
+#raz{
+background-color:orange;
+font-family:bold;
+}
+
+
+
+#dwa{
+background-color:green;
+font-family:bold;
+}
+
+
+#trzy{
+background-color:pink;
+font-family:bold;
+}
+
+
+
+.przycisk{
+	background-color:#0066ff;
+	border:solid;
+}
