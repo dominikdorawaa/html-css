@@ -1,6 +1,9 @@
-# INFO
+# INFO 
 
 DonniX
 
 # Lynk
-`https://lynk.pl`
+`https://lynk.pl` ups
+
+
+zmiana
