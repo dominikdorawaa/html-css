@@ -3,7 +3,7 @@
 DonniX
 
 # Lynk
-`https://lynk.pl` ups
+`https://lynk.pl` upsi
 
 
 zmiana
