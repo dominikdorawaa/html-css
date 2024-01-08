@@ -3,7 +3,7 @@
 DonniX
 
 # Lynk
-`https://lynk.pl` upsi
+`https://lynk.pl` upsiasdasd
 
 
 zmianaezzzs
