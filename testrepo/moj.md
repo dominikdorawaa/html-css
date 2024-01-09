@@ -4,7 +4,10 @@ DonniX
 
 # Lynk
 
-`https://lynk.pl` ups nie ma problemu juz :) ezez
+
+`https://lynk.pl` ups nie ma problemu juz :) g 
+
+
 
 
 
